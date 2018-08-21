@@ -1,3 +1,8 @@
-import MonHoraire
+#import MonHoraire
 
-MonHoraire.hello()
+#MonHoraire.horaireComplet()
+
+hello()
+
+def hello():
+    print('test')
