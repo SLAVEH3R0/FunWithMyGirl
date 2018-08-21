@@ -1,3 +1,3 @@
-import MonHoraire
+import hello
 
-MonHoraire.hello()
+hello.hello()
