@@ -1,4 +1,4 @@
-from tkinter import *
+import tkinter as tk
 import MonHoraireInterface
 
-MonHoraireInterface.AffichageInterfaceAcceuilHoraire()
+MonHoraireInterface.affichageInterfaceAcceuilHoraire()
